@@ -1,4 +1,4 @@
-# hgwzsrping
+# srping
 1. 提前安装 docker 运行环境
 
 brew install docker
